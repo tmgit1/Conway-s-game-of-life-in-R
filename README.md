@@ -3,7 +3,7 @@
 
 ## Overview
 
-Conway's Game of Life is a cellular automaton devised by mathematician John Conway. It consists of a grid of cells where each cell can be either alive or dead. The game progresses in discrete time steps, with the state of each cell evolving based on a set of simple rules. The Game of Life is known for its ability to generate complex patterns and behaviors from simple initial configurations.
+Conway's Game of Life is a cellular automaton devised by mathematician John Conway. It consists of a grid of cells where each cell can be either alive or dead. The game progresses in discrete time steps, with the state of each cell evolving based on a set of simple rules. The Game of Life is known for its ability to generate complex patterns and behaviors from simple initial configurations.  
 This implementation uses a grid that wraps on itself so that the patterns can continue to evolve when they hit the edge of the grid.
 
 ## Rules
